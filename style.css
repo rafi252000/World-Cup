@@ -173,7 +173,7 @@ p,span{
     grid-template-columns: repeat(6,1fr);
 }
 .footer-item{
-    font-family: 'Courier New', Courier, monospace;
+   
     
     text-align: center;
 }
