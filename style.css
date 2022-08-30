@@ -1,0 +1,16 @@
+body{
+    margin: 0% auto;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    margin: 50px 140px;
+}
+p,span{
+    font-family: sans-serif;
+}
+/* top banner */
+.header-container{
+    display: flex;
+    background-color: #161616;
+    border-radius: 23px;
+}
